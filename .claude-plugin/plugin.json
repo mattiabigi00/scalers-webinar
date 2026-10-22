@@ -1,0 +1,10 @@
+{
+  "name": "scalers-webinar",
+  "version": "1.0.0",
+  "description": "Il metodo webinar di Scalers come plugin: dalla scheda di progetto e dall'intake del cliente fino al deck (artifact Slides) passando per un audit indipendente, più la Webinar Academy che forma e certifica i copywriter sulla stessa fonte.",
+  "author": {
+    "name": "Matteo Gaggio · Scalers (GC Wealth Leverage Technologies Ltd)",
+    "email": "gamechangerswlt@gmail.com"
+  },
+  "keywords": ["webinar", "perfect webinar", "big domino", "copywriting", "scalers", "academy"]
+}

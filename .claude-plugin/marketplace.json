@@ -1,0 +1,20 @@
+{
+  "name": "scalers",
+  "owner": {
+    "name": "Scalers",
+    "email": "gamechangerswlt@gmail.com"
+  },
+  "metadata": {
+    "description": "Plugin interni di Scalers",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "scalers-webinar",
+      "source": "./",
+      "description": "Metodo webinar Scalers: pipeline dall'intake al deck con audit indipendente, e Webinar Academy per formare e certificare i copywriter.",
+      "version": "1.0.0",
+      "category": "marketing"
+    }
+  ]
+}
